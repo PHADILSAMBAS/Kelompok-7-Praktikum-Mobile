@@ -1,4 +1,4 @@
-package com.example.phadil_e_2106176
+package com.example.kelompok_7
 
 import io.flutter.embedding.android.FlutterActivity
 

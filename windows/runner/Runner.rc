@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "phadil_e_2106176" "\0"
+            VALUE "FileDescription", "kelompok_7" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "phadil_e_2106176" "\0"
+            VALUE "InternalName", "kelompok_7" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "phadil_e_2106176.exe" "\0"
-            VALUE "ProductName", "phadil_e_2106176" "\0"
+            VALUE "OriginalFilename", "kelompok_7.exe" "\0"
+            VALUE "ProductName", "kelompok_7" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
